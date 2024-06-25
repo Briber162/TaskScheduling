@@ -27,4 +27,10 @@ So each node should be balanced such that each node has 2 tasks assigned to it
 this function prints all the tasks associated with the node_id
 
 ## The nodes are to be executed in the same order as they are inserted
+# Steps to Run <br/>
 
+Download/Clone the repo on your machine. Compile the file with gcc compiler and it will creat the binary executable<br/><br/>
+```
+g++ -o name_of_execution_file taskScheduling.cpp
+./name_of_execution_file
+```
