@@ -1,4 +1,4 @@
-# TaskScheduling
+# Task Scheduling
 
 Implemented the below problem:
 
